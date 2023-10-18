@@ -27,6 +27,7 @@ Categorias:
 	dados
 	desenvolvimento (programação)
 	Manutenção de hardware
+	Segurança Online
 Jogos
 Quizz
 
